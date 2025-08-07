@@ -1,4 +1,4 @@
-#Data Science Projects
+# Data Science Projects
 
 Project 01: Titanic Survivors Prediction
 This project focuses on analyzing the Titanic dataset to predict which passengers survived the disaster. Five different machine learning models were implemented, and their performance was evaluated using the accuracy_score metric.
