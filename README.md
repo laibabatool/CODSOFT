@@ -1,9 +1,9 @@
-# CODSOFT
-TASK 01: Titanic survivors prediction
-This notebook describes the first task of the Codsoft Data Science internship, which is to use the Titanic dataset to predict which passengers survived the disaster. Five different machine learning models were used to make predictions, and the accuracy of each model was compared using the accuracy_score metric.
+#Data Science Projects
+Project 01: Titanic Survivors Prediction
+This project focuses on analyzing the Titanic dataset to predict which passengers survived the disaster. Five different machine learning models were implemented, and their performance was evaluated using the accuracy_score metric.
 
-TASK 02: Credit Card Fraud Detection
-Developed a machine learning model to identify fraudulent credit card transactions, employing techniques to handle imbalanced datasets. f1_score , precision and recall score were use to check the accuracy of the model prediction.
+Project 02: Credit Card Fraud Detection
+Built a machine learning model to detect fraudulent credit card transactions. Techniques for handling imbalanced datasets were applied. Model performance was assessed using f1_score, precision, and recall.
 
-TASK 03: IRIS Flower Classification
- It highlights my data preprocessing, model selection, training, and evaluation processes for classifying Iris flowers into species using machine learning.
+Project 03: Iris Flower Classification
+Demonstrated the process of data preprocessing, model selection, training, and evaluation to classify Iris flowers into their respective species using machine learning algorithms.
